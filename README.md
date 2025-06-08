@@ -38,10 +38,10 @@ The revolution is brewing. Stay tuned for benchmarks that will reshape expectati
 ### 💬 Connect & Support
 **Ready to make your code faster?**
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-💸-brightgreen)](https://github.com/sponsors/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-🐦-blue)](https://twitter.com/YourHandle)
-[![Reddit](https://img.shields.io/badge/Reddit-🤖-orange)](https://reddit.com/u/YourRedditUsername)
-[![Medium](https://img.shields.io/badge/Medium-📝-black)](https://medium.com/@YourMediumHandle)
+[![Sponsor](https://img.shields.io/badge/Sponsor-💸-brightgreen)](https://github.com/sponsors/greatvenerable)
+[![Twitter](https://img.shields.io/badge/Twitter-🐦-blue)](https://x.com/i_thesupremeone)
+[![Reddit](https://img.shields.io/badge/Reddit-🤖-orange)](https://reddit.com/u/EntireTopic6218)
+[![Medium](https://img.shields.io/badge/Medium-📝-black)](https://medium.com/@thesupremeoneofearth)
 
 ---
 
